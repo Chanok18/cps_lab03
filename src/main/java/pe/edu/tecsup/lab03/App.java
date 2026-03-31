@@ -2,7 +2,7 @@ package pe.edu.tecsup.lab03;
 
 /**
  * Holaa
- *
+ * hola
  */
 public class App 
 {
