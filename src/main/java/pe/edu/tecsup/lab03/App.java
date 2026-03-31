@@ -1,7 +1,7 @@
 package pe.edu.tecsup.lab03;
 
 /**
- * Hola
+ * Holaa
  *
  */
 public class App 
