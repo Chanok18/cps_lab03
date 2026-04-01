@@ -6,7 +6,7 @@ import java.time.LocalTime;
 public class ControllerStudent {
 
     // 1. Declaramos las variables primero
-    String nombreEstudiante = "Tu Nombre";
+    String nombreEstudiante = "Bellido Chambi Rony Widmer";
     LocalDate fechaActual = pe.edu.tecsup.lab03.LocalDate.now();
     LocalTime horaActual = LocalTime.now();
 
