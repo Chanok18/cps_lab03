@@ -7,7 +7,7 @@ public class ControllerStudent {
 
     // 1. Declaramos las variables primero
     String nombreEstudiante = "Bellido Chambi Rony Widmer";
-    LocalDate fechaActual = pe.edu.tecsup.lab03.LocalDate.now();
+    LocalDate fechaActual = App.now();
     LocalTime horaActual = LocalTime.now();
 
     // 2. Luego el método que las usa
